@@ -1,0 +1,17 @@
+C:\Users\abdullah.furat\source\repos\FirstDataAccess\bin\Debug\FirstDataAccess.exe.config
+C:\Users\abdullah.furat\source\repos\FirstDataAccess\bin\Debug\FirstDataAccess.exe
+C:\Users\abdullah.furat\source\repos\FirstDataAccess\bin\Debug\FirstDataAccess.pdb
+C:\Users\abdullah.furat\source\repos\FirstDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\abdullah.furat\source\repos\FirstDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abdullah.furat\source\repos\FirstDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\abdullah.furat\source\repos\FirstDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abdullah.furat\source\repos\FirstDataAccess\obj\Debug\PhoneApp.csprojAssemblyReference.cache
+C:\Users\abdullah.furat\source\repos\FirstDataAccess\obj\Debug\FirstDataAccess.Form1.resources
+C:\Users\abdullah.furat\source\repos\FirstDataAccess\obj\Debug\FirstDataAccess.Properties.Resources.resources
+C:\Users\abdullah.furat\source\repos\FirstDataAccess\obj\Debug\PhoneApp.csproj.GenerateResource.cache
+C:\Users\abdullah.furat\source\repos\FirstDataAccess\obj\Debug\PhoneApp.csproj.CoreCompileInputs.cache
+C:\Users\abdullah.furat\source\repos\FirstDataAccess\obj\Debug\PhoneApp.csproj.CopyComplete
+C:\Users\abdullah.furat\source\repos\FirstDataAccess\obj\Debug\FirstDataAccess.exe
+C:\Users\abdullah.furat\source\repos\FirstDataAccess\obj\Debug\FirstDataAccess.pdb
+C:\Users\abdullah.furat\source\repos\FirstDataAccess\bin\Debug\FakeData.dll
+C:\Users\abdullah.furat\source\repos\FirstDataAccess\bin\Debug\FakeData.pdb
